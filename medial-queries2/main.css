@@ -28,12 +28,12 @@ body {
   }
 
   .c,.d,.e { 
+    margin: auto;
     width: 30%;
     height: 30vh;
     border: solid;
     background-color: silver;
     text-align: center;
-    margin: auto;
   }
 
   .f{
@@ -67,7 +67,7 @@ body {
     .a{
       width: 100%;
     }
-    
+
     .b{
       width: 75%;
     }
